@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(css1.jpg);
+    background-size:cover;
+    background-position:center;
+    background-position:cover;
+    font-family: sans-serif;
+}
+.content h1{
+    font-size : 50px;
+    margin-top : 30px;
+    color :rgb(163, 64, 64)
+}
+.content h2{
+    font-size : 30px;
+    margin-top : 30px;
+    color:rgb(22, 21, 21)
+}
+.content p{
+    font-size : 20px;
+    
+    color :black
+}

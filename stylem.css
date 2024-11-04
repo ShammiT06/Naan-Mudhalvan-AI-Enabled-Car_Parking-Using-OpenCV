@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(css2.jpg);
+    background-size:cover;
+    background-position:center;
+    background-position:cover;
+    font-family: sans-serif;
+}
+.loginbox{
+    width:400px;
+    height:150px;
+    background:hsl(172, 76%, 44%);
+    color:#fff;
+    top:50%;
+    left:50%;
+    position:absolute;
+    transform:translate(-50%,-50%);
+    box-sizing:border-box;
+    padding: 70px 30px;
+}
+h3{
+    margin :0;
+    padding:0 0 20px;
+    text-align : center;
+    font-size : 22px
+    
+}
+button {
+    width: 100px;
+    padding: 15px 0;
+    text-align: center;
+    margin : 20px 10px;
+    border-radius : 25px;
+    font-weight:bold;
+    border : 2px solid #e60a0a;
+    background : transparent;
+    color: #5f0505;
+    cursor: pointer;
+    position : relative;
+    overflow : hidden;
+}
